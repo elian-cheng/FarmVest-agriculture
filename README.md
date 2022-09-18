@@ -1,3 +1,3 @@
-https://elian-cheng.github.io/FarmVest-agriculture/home
+https://elian-cheng.github.io/FarmVest-agriculture/
 
 # FarmVest-agriculture
